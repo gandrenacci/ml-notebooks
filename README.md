@@ -1,4 +1,4 @@
-# README for Python Machine Learning Showcase Notebook Collection
+# Python Machine Learning Showcase Notebook Collection
 
 ## Introduction
 
@@ -31,7 +31,7 @@ Contributions to this collection are welcome! If you have a notebook you'd like 
 
 ## Community
 
-Join our community on Kaggle and other platforms! Engage in discussions, ask questions, and share your insights.
+Join this project! Engage in discussions, ask questions, and share your insights.
 
 ## License
 
