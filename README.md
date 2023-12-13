@@ -48,9 +48,3 @@ For any queries or suggestions, feel free to contact the maintainer at [gianpier
 Happy Learning! 🚀🧠💻
 
 ---
-
-End of README.
-
----
-
-This README template provides a comprehensive overview for a machine learning notebook collection. You can customize it according to your specific collection's content and guidelines.
