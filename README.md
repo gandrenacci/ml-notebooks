@@ -43,7 +43,7 @@ Special thanks to all contributors and the machine learning community for their 
 
 ---
 
-For any queries or suggestions, feel free to contact the maintainer at [email@example.com](mailto:gianpiero.andrenacci@gmail.com).
+For any queries or suggestions, feel free to contact the maintainer at [gianpiero.andrenacci@gmail.com](mailto:gianpiero.andrenacci@gmail.com).
 
 Happy Learning! 🚀🧠💻
 
